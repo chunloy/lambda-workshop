@@ -18,7 +18,7 @@ This repo is a continuation of the [flask-workshop](https://github.com/chunloy/f
 
 ## Project setup
 
-1. run either `serverless` or `sls` and choose `AWS - Python - Flask API` as the template.
+1. Run either `serverless` or `sls` and choose `AWS - Python - Flask API` as the template.
 
 2. Name the project whatever you'd like. This will create a new folder with most of the necessary files.
 
