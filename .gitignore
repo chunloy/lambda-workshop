@@ -136,3 +136,6 @@ hosts_backup
 # serverless
 /.serverless
 serverless.yml
+
+# MacOS
+.DS_Store
