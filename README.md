@@ -66,4 +66,4 @@ A service for creating and maintaining REST APIs. More importantly, it's the mai
 
 ### What is S3?
 
-S3 stands for _Simple Storage Service_ and used for cloud data storage. In our example, the `sls deploy` command created a bucket used to store all the Flask-related modules, configuration files, etc., needed to run the Lambda.
+S3 stands for _Simple Storage Service_ and is used for cloud data storage. In our example, the `sls deploy` command created a bucket used to store all the Flask-related modules, configuration files, etc., needed to run the Lambda.
